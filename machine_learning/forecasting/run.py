@@ -1,8 +1,7 @@
 """
 this is code for forecasting
-but I modified it and used it for safety checker of data
-for ex: you have an online shop and for some reason some data are
-missing (the amount of data that u expected are not supposed to be in the sys) 
+for example: you have an online shop and for some reason some data are missing 
+(the amount of data that u expected are not supposed to be in the sys) 
 """
 
 from warnings import simplefilter
