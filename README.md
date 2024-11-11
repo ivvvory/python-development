@@ -1,3 +1,4 @@
-# still-learning-Python
+## limbus companyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
-i am, i cba
+i am so sigma
+#the one who grips can kill her self. 
