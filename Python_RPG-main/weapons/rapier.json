@@ -1,0 +1,7 @@
+{
+    "name" : "rapier",
+    "price" : 10,
+    "weight" : 0.7,
+    "size" : 15,
+    "damage" : [1,6]
+}

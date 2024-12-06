@@ -1,0 +1,7 @@
+{
+    "name" : "Dagger",
+    "price" : 10,
+    "weight" : 0.5,
+    "size" : 7,
+    "damage" : [1,4]
+}

@@ -1,0 +1,15 @@
+{
+    "name" : "Swan",
+    "charisma" : 19,
+    "strength" : 15,
+    "intel" : 16,
+    "wisdom" : 15,
+    "dexterity" : 19,
+    "constitution" : 17,
+    "race" : "Human",
+	"p_class" : "Rouge",
+    "level" : 7,
+    "hit_p_max" : 14,
+    "movement" : 28, 
+    "xp" : 5700
+}

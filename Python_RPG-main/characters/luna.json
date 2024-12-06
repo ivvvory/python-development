@@ -1,0 +1,15 @@
+{
+    "name" : "Luna",
+    "charisma" : 15,
+    "strength" : 12,
+    "intel" : 17,
+    "wisdom" : 18,
+    "dexterity" : 12,
+    "constitution" : 15,
+    "race" : "Elf",
+	"p_class" : "Druid",
+    "level" : 5,
+    "hit_p_max" : 10,
+    "movement" : 25, 
+    "xp" : 5500
+}
